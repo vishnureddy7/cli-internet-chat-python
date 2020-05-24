@@ -1,0 +1,29 @@
+message$hi
+message$hello
+message$hello there
+message$how are you
+message$i am fine
+message$how is eveything going
+message$everything is fine mate
+message$here goes everything
+message$here goes nothing
+message$sockets are good
+message$tcp is reliable
+message$udb is unreliable
+message$tcp is some what slower
+message$udp is faster than tcp
+command$echo 123
+command$ls
+command$pwd
+command$dir
+command$echo 123 > sample.txt
+command$cat sample.txt
+command$whatis ls
+command$which ls
+command$javac --version
+command$java --version
+command$python --version
+command$python3 --version
+command$gcc --version
+command$node --version
+command$npm --version
