@@ -1,2 +1,2 @@
-pycryptodome==3.4.3
+pycryptodome>=3.6.6
 crypto~=1.4.1
