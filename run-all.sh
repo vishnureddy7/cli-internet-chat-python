@@ -1,5 +1,7 @@
 #/bin/sh
 
+mkdir -p logs
+
 python -c 'import rsa_enc_dec; rsa_enc_dec.generate_rsa_keys()'
 
 echo "Keys generated successfully"
